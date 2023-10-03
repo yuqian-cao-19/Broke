@@ -1,4 +1,4 @@
-# Broke
+# Budget Lifeguard
 
 Hey guys! Here is a short introduction to our project
 
